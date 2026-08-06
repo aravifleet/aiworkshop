@@ -1,4 +1,0 @@
-title,type,description,instructions
-Happy path: basic flow,happy,Validate the happy path on https://practicetestautomation.com/practice-test-login/ using the provided instructions.,fill username with student | fill password with Password123 | click login | verify page loads | capture DOM after login | verify links are visible
-Negative path: invalid input or missing action,negative,Validate expected failures when inputs are missing or invalid.,fill username with invalid_user | fill password with invalid_pass | click login | verify error message appears
-Edge case: boundary or alternate navigation,edge,Verify edge cases and alternate navigation from the same starting point.,verify navigation is stable | capture DOM after each major step | verify links are visible

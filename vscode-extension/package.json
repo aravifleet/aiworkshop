@@ -1,0 +1,48 @@
+{
+  "name": "agentic-qa",
+  "displayName": "Agentic-QA",
+  "description": "Run the Agentic-QA automation framework directly from VS Code.",
+  "version": "0.2.9",
+  "publisher": "aravifleet",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Testing",
+    "Other"
+  ],
+  "keywords": [
+    "QA",
+    "automation",
+    "playwright",
+    "testing",
+    "agentic"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aravifleet/aiworkshop.git"
+  },
+  "activationEvents": [
+    "onCommand:agenticQA.run"
+  ],
+  "main": "./extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "agenticQA.run",
+        "title": "Agentic-QA: Run automation"
+      }
+    ],
+    "configuration": {
+      "type": "object",
+      "title": "Agentic QA",
+      "properties": {
+        "agenticQA.pythonPath": {
+          "type": "string",
+          "default": "python",
+          "description": "Python executable used to launch the Agentic QA CLI."
+        }
+      }
+    }
+  }
+}

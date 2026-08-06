@@ -1,0 +1,1303 @@
+[
+  {
+    "title": "Test Login | Practice Test Automation",
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "links": [
+      {
+        "text": "Press \"Enter\" to skip to content",
+        "href": "https://practicetestautomation.com/practice-test-login/#main-container",
+        "selector": "a:nth-of-type(1)"
+      },
+      {
+        "text": "",
+        "href": "https://practicetestautomation.com/",
+        "selector": "a:nth-of-type(2)"
+      },
+      {
+        "text": "HOME",
+        "href": "https://practicetestautomation.com/",
+        "selector": "a:nth-of-type(3)"
+      },
+      {
+        "text": "PRACTICE",
+        "href": "https://practicetestautomation.com/practice/",
+        "selector": "a:nth-of-type(4)"
+      },
+      {
+        "text": "COURSES",
+        "href": "https://practicetestautomation.com/courses/",
+        "selector": "a:nth-of-type(5)"
+      },
+      {
+        "text": "AI WORKSHOP",
+        "href": "https://practicetestautomation.com/workshop",
+        "selector": "a:nth-of-type(6)"
+      },
+      {
+        "text": "BLOG",
+        "href": "https://practicetestautomation.com/blog/",
+        "selector": "a:nth-of-type(7)"
+      },
+      {
+        "text": "CONTACT",
+        "href": "https://practicetestautomation.com/contact/",
+        "selector": "a:nth-of-type(8)"
+      },
+      {
+        "text": "Practice Test Automation.",
+        "href": "https://practicetestautomation.com/",
+        "selector": "a:nth-of-type(9)"
+      },
+      {
+        "text": "Privacy Policy",
+        "href": "https://practicetestautomation.com/privacy-policy/",
+        "selector": "a:nth-of-type(10)"
+      }
+    ],
+    "buttons": [
+      {
+        "text": "",
+        "selector": "button:nth-of-type(1)"
+      },
+      {
+        "text": "open menu",
+        "selector": "#toggle-navigation"
+      },
+      {
+        "text": "Submit",
+        "selector": "#submit"
+      }
+    ],
+    "inputs": [
+      {
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "type": "text",
+        "selector": "#username"
+      },
+      {
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "type": "password",
+        "selector": "#password"
+      }
+    ],
+    "discovered_at": "2026-08-06T18:24:26.203632"
+  },
+  {
+    "title": "Test Login | Practice Test Automation",
+    "url": "https://practicetestautomation.com/practice-test-login/#main-container",
+    "links": [
+      {
+        "text": "Press \"Enter\" to skip to content",
+        "href": "https://practicetestautomation.com/practice-test-login/#main-container",
+        "selector": "a:nth-of-type(1)"
+      },
+      {
+        "text": "",
+        "href": "https://practicetestautomation.com/",
+        "selector": "a:nth-of-type(2)"
+      },
+      {
+        "text": "HOME",
+        "href": "https://practicetestautomation.com/",
+        "selector": "a:nth-of-type(3)"
+      },
+      {
+        "text": "PRACTICE",
+        "href": "https://practicetestautomation.com/practice/",
+        "selector": "a:nth-of-type(4)"
+      },
+      {
+        "text": "COURSES",
+        "href": "https://practicetestautomation.com/courses/",
+        "selector": "a:nth-of-type(5)"
+      },
+      {
+        "text": "AI WORKSHOP",
+        "href": "https://practicetestautomation.com/workshop",
+        "selector": "a:nth-of-type(6)"
+      },
+      {
+        "text": "BLOG",
+        "href": "https://practicetestautomation.com/blog/",
+        "selector": "a:nth-of-type(7)"
+      },
+      {
+        "text": "CONTACT",
+        "href": "https://practicetestautomation.com/contact/",
+        "selector": "a:nth-of-type(8)"
+      },
+      {
+        "text": "Practice Test Automation.",
+        "href": "https://practicetestautomation.com/",
+        "selector": "a:nth-of-type(9)"
+      },
+      {
+        "text": "Privacy Policy",
+        "href": "https://practicetestautomation.com/privacy-policy/",
+        "selector": "a:nth-of-type(10)"
+      }
+    ],
+    "buttons": [
+      {
+        "text": "",
+        "selector": "button:nth-of-type(1)"
+      },
+      {
+        "text": "open menu",
+        "selector": "#toggle-navigation"
+      },
+      {
+        "text": "Submit",
+        "selector": "#submit"
+      }
+    ],
+    "inputs": [
+      {
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "type": "text",
+        "selector": "#username"
+      },
+      {
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "type": "password",
+        "selector": "#password"
+      }
+    ],
+    "discovered_at": "2026-08-06T18:24:26.499908"
+  },
+  {
+    "title": "Practice Test Automation | Learn Selenium WebDriver",
+    "url": "https://practicetestautomation.com/",
+    "links": [
+      {
+        "text": "Press \"Enter\" to skip to content",
+        "href": "https://practicetestautomation.com/#main-container",
+        "selector": "a:nth-of-type(1)"
+      },
+      {
+        "text": "",
+        "href": "https://practicetestautomation.com/",
+        "selector": "a:nth-of-type(2)"
+      },
+      {
+        "text": "HOME",
+        "href": "https://practicetestautomation.com/",
+        "selector": "a:nth-of-type(3)"
+      },
+      {
+        "text": "PRACTICE",
+        "href": "https://practicetestautomation.com/practice/",
+        "selector": "a:nth-of-type(4)"
+      },
+      {
+        "text": "COURSES",
+        "href": "https://practicetestautomation.com/courses/",
+        "selector": "a:nth-of-type(5)"
+      },
+      {
+        "text": "AI WORKSHOP",
+        "href": "https://practicetestautomation.com/workshop",
+        "selector": "a:nth-of-type(6)"
+      },
+      {
+        "text": "BLOG",
+        "href": "https://practicetestautomation.com/blog/",
+        "selector": "a:nth-of-type(7)"
+      },
+      {
+        "text": "CONTACT",
+        "href": "https://practicetestautomation.com/contact/",
+        "selector": "a:nth-of-type(8)"
+      },
+      {
+        "text": "nine courses with over 100,000 students",
+        "href": "https://practicetestautomation.com/courses/",
+        "selector": "a:nth-of-type(9)"
+      },
+      {
+        "text": "BestSeller XPath course",
+        "href": "https://www.udemy.com/course/xpath-locators-for-selenium/?referralCode=ACB28329B5AC2333DDCC",
+        "selector": "a:nth-of-type(10)"
+      },
+      {
+        "text": "HighestRated Selenium course",
+        "href": "https://www.udemy.com/course/selenium-for-beginners/?referralCode=A21BE51035C15406EFA4",
+        "selector": "a:nth-of-type(11)"
+      },
+      {
+        "text": "diverse selection of articles, standalone lectures, tips, and examples",
+        "href": "https://practicetestautomation.com/blog/",
+        "selector": "a:nth-of-type(12)"
+      },
+      {
+        "text": "practical platform",
+        "href": "https://practicetestautomation.com/practice/",
+        "selector": "a:nth-of-type(13)"
+      },
+      {
+        "text": "BLOG",
+        "href": "https://practicetestautomation.com/blog/",
+        "selector": "a:nth-of-type(14)"
+      },
+      {
+        "text": "COURSES",
+        "href": "https://practicetestautomation.com/courses/",
+        "selector": "a:nth-of-type(15)"
+      },
+      {
+        "text": "Built with Kit",
+        "href": "https://kit.com/features/forms?utm_campaign=poweredby&utm_content=form&utm_medium=referral&utm_source=dynamic",
+        "selector": "a:nth-of-type(16)"
+      },
+      {
+        "text": "Practice Test Automation.",
+        "href": "https://practicetestautomation.com/",
+        "selector": "a:nth-of-type(17)"
+      },
+      {
+        "text": "Privacy Policy",
+        "href": "https://practicetestautomation.com/privacy-policy/",
+        "selector": "a:nth-of-type(18)"
+      },
+      {
+        "text": "Built with Kit",
+        "href": "https://kit.com/features/forms?utm_campaign=poweredby&utm_content=form&utm_medium=referral&utm_source=dynamic",
+        "selector": "a:nth-of-type(19)"
+      }
+    ],
+    "buttons": [
+      {
+        "text": "",
+        "selector": "button:nth-of-type(1)"
+      },
+      {
+        "text": "open menu",
+        "selector": "#toggle-navigation"
+      },
+      {
+        "text": "Get the cheat sheet",
+        "selector": "button:nth-of-type(3)"
+      },
+      {
+        "text": "Subscribe",
+        "selector": "button:nth-of-type(4)"
+      },
+      {
+        "text": "Close",
+        "selector": "button:nth-of-type(5)"
+      }
+    ],
+    "inputs": [
+      {
+        "name": "email_address",
+        "id": "",
+        "placeholder": "Email Address",
+        "type": "text",
+        "selector": "input:nth-of-type(1)"
+      },
+      {
+        "name": "email_address",
+        "id": "",
+        "placeholder": "Email Address",
+        "type": "text",
+        "selector": "input:nth-of-type(2)"
+      },
+      {
+        "name": "tags[]",
+        "id": "",
+        "placeholder": "",
+        "type": "select",
+        "selector": "select:nth-of-type(3)"
+      },
+      {
+        "name": "tags[]",
+        "id": "",
+        "placeholder": "",
+        "type": "select",
+        "selector": "select:nth-of-type(4)"
+      },
+      {
+        "name": "tags[]",
+        "id": "",
+        "placeholder": "",
+        "type": "select",
+        "selector": "select:nth-of-type(5)"
+      }
+    ],
+    "discovered_at": "2026-08-06T18:24:28.125014"
+  },
+  {
+    "title": "Practice | Practice Test Automation",
+    "url": "https://practicetestautomation.com/practice/",
+    "links": [
+      {
+        "text": "Press \"Enter\" to skip to content",
+        "href": "https://practicetestautomation.com/practice/#main-container",
+        "selector": "a:nth-of-type(1)"
+      },
+      {
+        "text": "",
+        "href": "https://practicetestautomation.com/",
+        "selector": "a:nth-of-type(2)"
+      },
+      {
+        "text": "HOME",
+        "href": "https://practicetestautomation.com/",
+        "selector": "a:nth-of-type(3)"
+      },
+      {
+        "text": "PRACTICE",
+        "href": "https://practicetestautomation.com/practice/",
+        "selector": "a:nth-of-type(4)"
+      },
+      {
+        "text": "COURSES",
+        "href": "https://practicetestautomation.com/courses/",
+        "selector": "a:nth-of-type(5)"
+      },
+      {
+        "text": "AI WORKSHOP",
+        "href": "https://practicetestautomation.com/workshop",
+        "selector": "a:nth-of-type(6)"
+      },
+      {
+        "text": "BLOG",
+        "href": "https://practicetestautomation.com/blog/",
+        "selector": "a:nth-of-type(7)"
+      },
+      {
+        "text": "CONTACT",
+        "href": "https://practicetestautomation.com/contact/",
+        "selector": "a:nth-of-type(8)"
+      },
+      {
+        "text": "Test Login Page",
+        "href": "https://practicetestautomation.com/practice-test-login/",
+        "selector": "a:nth-of-type(9)"
+      },
+      {
+        "text": "Test Exceptions",
+        "href": "https://practicetestautomation.com/practice-test-exceptions/",
+        "selector": "a:nth-of-type(10)"
+      },
+      {
+        "text": "Test Table",
+        "href": "https://practicetestautomation.com/practice-test-table/",
+        "selector": "a:nth-of-type(11)"
+      },
+      {
+        "text": "Practice Test Automation.",
+        "href": "https://practicetestautomation.com/",
+        "selector": "a:nth-of-type(12)"
+      },
+      {
+        "text": "Privacy Policy",
+        "href": "https://practicetestautomation.com/privacy-policy/",
+        "selector": "a:nth-of-type(13)"
+      }
+    ],
+    "buttons": [
+      {
+        "text": "",
+        "selector": "button:nth-of-type(1)"
+      },
+      {
+        "text": "open menu",
+        "selector": "#toggle-navigation"
+      }
+    ],
+    "inputs": [],
+    "discovered_at": "2026-08-06T18:24:29.021067"
+  },
+  {
+    "title": "Courses | Practice Test Automation",
+    "url": "https://practicetestautomation.com/courses/",
+    "links": [
+      {
+        "text": "Press \"Enter\" to skip to content",
+        "href": "https://practicetestautomation.com/courses/#main-container",
+        "selector": "a:nth-of-type(1)"
+      },
+      {
+        "text": "",
+        "href": "https://practicetestautomation.com/",
+        "selector": "a:nth-of-type(2)"
+      },
+      {
+        "text": "HOME",
+        "href": "https://practicetestautomation.com/",
+        "selector": "a:nth-of-type(3)"
+      },
+      {
+        "text": "PRACTICE",
+        "href": "https://practicetestautomation.com/practice/",
+        "selector": "a:nth-of-type(4)"
+      },
+      {
+        "text": "COURSES",
+        "href": "https://practicetestautomation.com/courses/",
+        "selector": "a:nth-of-type(5)"
+      },
+      {
+        "text": "AI WORKSHOP",
+        "href": "https://practicetestautomation.com/workshop",
+        "selector": "a:nth-of-type(6)"
+      },
+      {
+        "text": "BLOG",
+        "href": "https://practicetestautomation.com/blog/",
+        "selector": "a:nth-of-type(7)"
+      },
+      {
+        "text": "CONTACT",
+        "href": "https://practicetestautomation.com/contact/",
+        "selector": "a:nth-of-type(8)"
+      },
+      {
+        "text": "Selenium WebDriver with Java: AI-Powered Test Automation",
+        "href": "https://practicetestautomation.com/beginners-course-coupon",
+        "selector": "a:nth-of-type(9)"
+      },
+      {
+        "text": "Enroll in this course on Udemy",
+        "href": "https://practicetestautomation.com/beginners-course-coupon",
+        "selector": "a:nth-of-type(10)"
+      },
+      {
+        "text": "Selenium WebDriver: Selenium Automation Testing with Python",
+        "href": "https://practicetestautomation.com/selenium-python-udemy",
+        "selector": "a:nth-of-type(11)"
+      },
+      {
+        "text": "Enroll in this course on Udemy",
+        "href": "https://practicetestautomation.com/selenium-python-udemy",
+        "selector": "a:nth-of-type(12)"
+      },
+      {
+        "text": "Java for Testers",
+        "href": "https://practicetestautomation.com/java-for-testers-udemy",
+        "selector": "a:nth-of-type(13)"
+      },
+      {
+        "text": "Enroll in this course on Udemy",
+        "href": "https://practicetestautomation.com/java-for-testers-udemy",
+        "selector": "a:nth-of-type(14)"
+      },
+      {
+        "text": "Python: The Complete Guide for Software Testers",
+        "href": "https://practicetestautomation.com/python-for-testers",
+        "selector": "a:nth-of-type(15)"
+      },
+      {
+        "text": "Enroll in this course on Udemy",
+        "href": "https://practicetestautomation.com/python-for-testers",
+        "selector": "a:nth-of-type(16)"
+      },
+      {
+        "text": "Advanced Selenium WebDriver with Java and TestNG",
+        "href": "https://practicetestautomation.com/advanced-course-coupon",
+        "selector": "a:nth-of-type(17)"
+      },
+      {
+        "text": "Enroll in this course on Udemy",
+        "href": "https://practicetestautomation.com/advanced-course-coupon",
+        "selector": "a:nth-of-type(18)"
+      },
+      {
+        "text": "XPath and CSS Locators for Test Automation",
+        "href": "https://practicetestautomation.com/xpath-course-coupon",
+        "selector": "a:nth-of-type(19)"
+      },
+      {
+        "text": "Enroll in this course on Udemy",
+        "href": "https://practicetestautomation.com/xpath-course-coupon",
+        "selector": "a:nth-of-type(20)"
+      },
+      {
+        "text": "REST Assured. API test automation for beginners",
+        "href": "https://practicetestautomation.com/rest-assured-course-coupon",
+        "selector": "a:nth-of-type(21)"
+      },
+      {
+        "text": "Enroll in this course on Udemy",
+        "href": "https://practicetestautomation.com/rest-assured-course-coupon",
+        "selector": "a:nth-of-type(22)"
+      },
+      {
+        "text": "Advanced Selenium Grid and Cloud",
+        "href": "https://practicetestautomation.com/selenium-grid",
+        "selector": "a:nth-of-type(23)"
+      },
+      {
+        "text": "Enroll in this course on Udemy",
+        "href": "https://practicetestautomation.com/selenium-grid",
+        "selector": "a:nth-of-type(24)"
+      },
+      {
+        "text": "Advanced Selenium testing framework with Java",
+        "href": "https://practicetestautomation.com/selenium-webdriver-test-framework-from-scratch-referralCode",
+        "selector": "a:nth-of-type(25)"
+      },
+      {
+        "text": "Enroll in this course on Udemy",
+        "href": "https://practicetestautomation.com/selenium-webdriver-test-framework-from-scratch-referralCode",
+        "selector": "a:nth-of-type(26)"
+      },
+      {
+        "text": "Practice Test Automation.",
+        "href": "https://practicetestautomation.com/",
+        "selector": "a:nth-of-type(27)"
+      },
+      {
+        "text": "Privacy Policy",
+        "href": "https://practicetestautomation.com/privacy-policy/",
+        "selector": "a:nth-of-type(28)"
+      }
+    ],
+    "buttons": [
+      {
+        "text": "",
+        "selector": "button:nth-of-type(1)"
+      },
+      {
+        "text": "open menu",
+        "selector": "#toggle-navigation"
+      }
+    ],
+    "inputs": [],
+    "discovered_at": "2026-08-06T18:24:29.913802"
+  },
+  {
+    "title": "AI-powered test automation \u2014 a live workshop",
+    "url": "https://dmytro-shyshkin.kit.com/ai-workshop",
+    "links": [
+      {
+        "text": "Powered By Kit",
+        "href": "https://kit.com/features/forms?utm_campaign=poweredby&utm_content=form&utm_medium=referral&utm_source=dynamic",
+        "selector": "a:nth-of-type(1)"
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Join the waitlist",
+        "selector": "button:nth-of-type(1)"
+      }
+    ],
+    "inputs": [
+      {
+        "name": "email_address",
+        "id": "",
+        "placeholder": "Email Address",
+        "type": "email",
+        "selector": "input:nth-of-type(1)"
+      },
+      {
+        "name": "tags[]",
+        "id": "",
+        "placeholder": "",
+        "type": "select",
+        "selector": "select:nth-of-type(2)"
+      },
+      {
+        "name": "tags[]",
+        "id": "",
+        "placeholder": "",
+        "type": "select",
+        "selector": "select:nth-of-type(3)"
+      },
+      {
+        "name": "tags[]",
+        "id": "",
+        "placeholder": "",
+        "type": "select",
+        "selector": "select:nth-of-type(4)"
+      }
+    ],
+    "discovered_at": "2026-08-06T18:24:31.545388"
+  },
+  {
+    "title": "Blog | Practice Test Automation",
+    "url": "https://practicetestautomation.com/blog/",
+    "links": [
+      {
+        "text": "Press \"Enter\" to skip to content",
+        "href": "https://practicetestautomation.com/blog/#main-container",
+        "selector": "a:nth-of-type(1)"
+      },
+      {
+        "text": "",
+        "href": "https://practicetestautomation.com/",
+        "selector": "a:nth-of-type(2)"
+      },
+      {
+        "text": "HOME",
+        "href": "https://practicetestautomation.com/",
+        "selector": "a:nth-of-type(3)"
+      },
+      {
+        "text": "PRACTICE",
+        "href": "https://practicetestautomation.com/practice/",
+        "selector": "a:nth-of-type(4)"
+      },
+      {
+        "text": "COURSES",
+        "href": "https://practicetestautomation.com/courses/",
+        "selector": "a:nth-of-type(5)"
+      },
+      {
+        "text": "AI WORKSHOP",
+        "href": "https://practicetestautomation.com/workshop",
+        "selector": "a:nth-of-type(6)"
+      },
+      {
+        "text": "BLOG",
+        "href": "https://practicetestautomation.com/blog/",
+        "selector": "a:nth-of-type(7)"
+      },
+      {
+        "text": "CONTACT",
+        "href": "https://practicetestautomation.com/contact/",
+        "selector": "a:nth-of-type(8)"
+      },
+      {
+        "text": "Teach AI to Diagnose Failing Tests, Not Just Write Them",
+        "href": "https://practicetestautomation.com/ai-diagnose-failing-tests/",
+        "selector": "a:nth-of-type(9)"
+      },
+      {
+        "text": "Teach AI to Diagnose Failing Tests, Not Just Write Them",
+        "href": "https://practicetestautomation.com/ai-diagnose-failing-tests/",
+        "selector": "a:nth-of-type(10)"
+      },
+      {
+        "text": "Read More Teach AI to Diagnose Failing Tests, Not Just Write Them",
+        "href": "https://practicetestautomation.com/ai-diagnose-failing-tests/",
+        "selector": "a:nth-of-type(11)"
+      },
+      {
+        "text": "The Assertion Is the Hard Part",
+        "href": "https://practicetestautomation.com/assertion-is-the-hard-part/",
+        "selector": "a:nth-of-type(12)"
+      },
+      {
+        "text": "The Assertion Is the Hard Part",
+        "href": "https://practicetestautomation.com/assertion-is-the-hard-part/",
+        "selector": "a:nth-of-type(13)"
+      },
+      {
+        "text": "Read More The Assertion Is the Hard Part",
+        "href": "https://practicetestautomation.com/assertion-is-the-hard-part/",
+        "selector": "a:nth-of-type(14)"
+      },
+      {
+        "text": "The Framework Was Never the Hard Part. AI Changed That.",
+        "href": "https://practicetestautomation.com/framework-debate-distraction-ai-test-automation/",
+        "selector": "a:nth-of-type(15)"
+      },
+      {
+        "text": "The Framework Was Never the Hard Part. AI Changed That.",
+        "href": "https://practicetestautomation.com/framework-debate-distraction-ai-test-automation/",
+        "selector": "a:nth-of-type(16)"
+      },
+      {
+        "text": "Read More The Framework Was Never the Hard Part. AI Changed That.",
+        "href": "https://practicetestautomation.com/framework-debate-distraction-ai-test-automation/",
+        "selector": "a:nth-of-type(17)"
+      },
+      {
+        "text": "Unlock Your Future: Selenium WebDriver Career Launcher Part 6",
+        "href": "https://practicetestautomation.com/selenium-webdriver-career-launcher-part-6-engaging-with-the-selenium-community/",
+        "selector": "a:nth-of-type(18)"
+      },
+      {
+        "text": "\u201cSelenium WebDriver Career Launcher\u201d",
+        "href": "https://practicetestautomation.com/selenium-webdriver-career-launcher-part-1-elevating-your-career/",
+        "selector": "a:nth-of-type(19)"
+      },
+      {
+        "text": "Read More Unlock Your Future: Selenium WebDriver Career Launcher Part 6",
+        "href": "https://practicetestautomation.com/selenium-webdriver-career-launcher-part-6-engaging-with-the-selenium-community/",
+        "selector": "a:nth-of-type(20)"
+      },
+      {
+        "text": "Unlock Your Future: Selenium WebDriver Career Launcher Part 5",
+        "href": "https://practicetestautomation.com/selenium-webdriver-career-launcher-part-5-selenium-webdriver-job-interviews/",
+        "selector": "a:nth-of-type(21)"
+      },
+      {
+        "text": "\u201cSelenium WebDriver Career Launcher\u201d",
+        "href": "https://practicetestautomation.com/selenium-webdriver-career-launcher-part-1-elevating-your-career/",
+        "selector": "a:nth-of-type(22)"
+      },
+      {
+        "text": "Udemy\u2019s about page",
+        "href": "https://about.udemy.com/",
+        "selector": "a:nth-of-type(23)"
+      },
+      {
+        "text": "Read More Unlock Your Future: Selenium WebDriver Career Launcher Part 5",
+        "href": "https://practicetestautomation.com/selenium-webdriver-career-launcher-part-5-selenium-webdriver-job-interviews/",
+        "selector": "a:nth-of-type(24)"
+      },
+      {
+        "text": "Unlock Your Future: Selenium WebDriver Career Launcher Part 4",
+        "href": "https://practicetestautomation.com/selenium-webdriver-career-launcher-part-4-navigating-selenium-job-listings/",
+        "selector": "a:nth-of-type(25)"
+      },
+      {
+        "text": "\u201cSelenium WebDriver Career Launcher\u201d",
+        "href": "https://practicetestautomation.com/selenium-webdriver-career-launcher-part-1-elevating-your-career",
+        "selector": "a:nth-of-type(26)"
+      },
+      {
+        "text": "LinkedIn\u2019s job search",
+        "href": "https://www.linkedin.com/jobs/",
+        "selector": "a:nth-of-type(27)"
+      },
+      {
+        "text": "Read More Unlock Your Future: Selenium WebDriver Career Launcher Part 4",
+        "href": "https://practicetestautomation.com/selenium-webdriver-career-launcher-part-4-navigating-selenium-job-listings/",
+        "selector": "a:nth-of-type(28)"
+      },
+      {
+        "text": "Unlock Your Future: Selenium WebDriver Career Launcher Part 3",
+        "href": "https://practicetestautomation.com/selenium-webdriver-career-launcher-part-3-crafting-a-winning-resume/",
+        "selector": "a:nth-of-type(29)"
+      },
+      {
+        "text": "\u201cSelenium WebDriver Career Launcher\u201d",
+        "href": "https://practicetestautomation.com/selenium-webdriver-career-launcher-part-1-elevating-your-career/",
+        "selector": "a:nth-of-type(30)"
+      },
+      {
+        "text": "Read More Unlock Your Future: Selenium WebDriver Career Launcher Part 3",
+        "href": "https://practicetestautomation.com/selenium-webdriver-career-launcher-part-3-crafting-a-winning-resume/",
+        "selector": "a:nth-of-type(31)"
+      },
+      {
+        "text": "Unlock Your Future: Selenium WebDriver Career Launcher Part 2",
+        "href": "https://practicetestautomation.com/selenium-webdriver-career-launcher-part-2-mastering-portfolio-development/",
+        "selector": "a:nth-of-type(32)"
+      },
+      {
+        "text": "\u201cSelenium WebDriver Career Launcher\u201d",
+        "href": "https://practicetestautomation.com/selenium-webdriver-career-launcher-part-1-elevating-your-career/",
+        "selector": "a:nth-of-type(33)"
+      },
+      {
+        "text": "Read More Unlock Your Future: Selenium WebDriver Career Launcher Part 2",
+        "href": "https://practicetestautomation.com/selenium-webdriver-career-launcher-part-2-mastering-portfolio-development/",
+        "selector": "a:nth-of-type(34)"
+      },
+      {
+        "text": "Unlock Your Future: Selenium WebDriver Career Launcher Part 1",
+        "href": "https://practicetestautomation.com/selenium-webdriver-career-launcher-part-1-elevating-your-career/",
+        "selector": "a:nth-of-type(35)"
+      },
+      {
+        "text": "Read More Unlock Your Future: Selenium WebDriver Career Launcher Part 1",
+        "href": "https://practicetestautomation.com/selenium-webdriver-career-launcher-part-1-elevating-your-career/",
+        "selector": "a:nth-of-type(36)"
+      },
+      {
+        "text": "Headless Browser Testing with Selenium: Elevate Your Expertise",
+        "href": "https://practicetestautomation.com/headless-browser-testing-selenium-guide/",
+        "selector": "a:nth-of-type(37)"
+      },
+      {
+        "text": "Read More Headless Browser Testing with Selenium: Elevate Your Expertise",
+        "href": "https://practicetestautomation.com/headless-browser-testing-selenium-guide/",
+        "selector": "a:nth-of-type(38)"
+      },
+      {
+        "text": "2",
+        "href": "https://practicetestautomation.com/blog/page/2/",
+        "selector": "a:nth-of-type(39)"
+      },
+      {
+        "text": "3",
+        "href": "https://practicetestautomation.com/blog/page/3/",
+        "selector": "a:nth-of-type(40)"
+      },
+      {
+        "text": "Next",
+        "href": "https://practicetestautomation.com/blog/page/2/",
+        "selector": "a:nth-of-type(41)"
+      },
+      {
+        "text": "Practice Test Automation.",
+        "href": "https://practicetestautomation.com/",
+        "selector": "a:nth-of-type(42)"
+      },
+      {
+        "text": "Privacy Policy",
+        "href": "https://practicetestautomation.com/privacy-policy/",
+        "selector": "a:nth-of-type(43)"
+      }
+    ],
+    "buttons": [
+      {
+        "text": "",
+        "selector": "button:nth-of-type(1)"
+      },
+      {
+        "text": "open menu",
+        "selector": "#toggle-navigation"
+      }
+    ],
+    "inputs": [],
+    "discovered_at": "2026-08-06T18:24:32.615304"
+  },
+  {
+    "title": "Contact | Practice Test Automation | Selenium WebDriver",
+    "url": "https://practicetestautomation.com/contact/",
+    "links": [
+      {
+        "text": "Press \"Enter\" to skip to content",
+        "href": "https://practicetestautomation.com/contact/#main-container",
+        "selector": "a:nth-of-type(1)"
+      },
+      {
+        "text": "",
+        "href": "https://practicetestautomation.com/",
+        "selector": "a:nth-of-type(2)"
+      },
+      {
+        "text": "HOME",
+        "href": "https://practicetestautomation.com/",
+        "selector": "a:nth-of-type(3)"
+      },
+      {
+        "text": "PRACTICE",
+        "href": "https://practicetestautomation.com/practice/",
+        "selector": "a:nth-of-type(4)"
+      },
+      {
+        "text": "COURSES",
+        "href": "https://practicetestautomation.com/courses/",
+        "selector": "a:nth-of-type(5)"
+      },
+      {
+        "text": "AI WORKSHOP",
+        "href": "https://practicetestautomation.com/workshop",
+        "selector": "a:nth-of-type(6)"
+      },
+      {
+        "text": "BLOG",
+        "href": "https://practicetestautomation.com/blog/",
+        "selector": "a:nth-of-type(7)"
+      },
+      {
+        "text": "CONTACT",
+        "href": "https://practicetestautomation.com/contact/",
+        "selector": "a:nth-of-type(8)"
+      },
+      {
+        "text": "Practice Test Automation.",
+        "href": "https://practicetestautomation.com/",
+        "selector": "a:nth-of-type(9)"
+      },
+      {
+        "text": "Privacy Policy",
+        "href": "https://practicetestautomation.com/privacy-policy/",
+        "selector": "a:nth-of-type(10)"
+      },
+      {
+        "text": "Built with Kit",
+        "href": "https://kit.com/features/forms?utm_campaign=poweredby&utm_content=form&utm_medium=referral&utm_source=dynamic",
+        "selector": "a:nth-of-type(11)"
+      }
+    ],
+    "buttons": [
+      {
+        "text": "",
+        "selector": "button:nth-of-type(1)"
+      },
+      {
+        "text": "open menu",
+        "selector": "#toggle-navigation"
+      },
+      {
+        "text": "Submit",
+        "selector": "#wpforms-submit-161"
+      },
+      {
+        "text": "Subscribe",
+        "selector": "button:nth-of-type(4)"
+      },
+      {
+        "text": "Close",
+        "selector": "button:nth-of-type(5)"
+      }
+    ],
+    "inputs": [
+      {
+        "name": "wpforms[fields][0][first]",
+        "id": "wpforms-161-field_0",
+        "placeholder": "",
+        "type": "text",
+        "selector": "#wpforms-161-field_0"
+      },
+      {
+        "name": "wpforms[fields][0][last]",
+        "id": "wpforms-161-field_0-last",
+        "placeholder": "",
+        "type": "text",
+        "selector": "#wpforms-161-field_0-last"
+      },
+      {
+        "name": "wpforms[fields][1]",
+        "id": "wpforms-161-field_1",
+        "placeholder": "",
+        "type": "email",
+        "selector": "#wpforms-161-field_1"
+      },
+      {
+        "name": "wpforms[fields][2]",
+        "id": "wpforms-161-field_2",
+        "placeholder": "",
+        "type": "textarea",
+        "selector": "#wpforms-161-field_2"
+      },
+      {
+        "name": "wpforms[hp]",
+        "id": "wpforms-161-field-hp",
+        "placeholder": "",
+        "type": "text",
+        "selector": "#wpforms-161-field-hp"
+      },
+      {
+        "name": "g-recaptcha-response",
+        "id": "g-recaptcha-response",
+        "placeholder": "",
+        "type": "textarea",
+        "selector": "#g-recaptcha-response"
+      },
+      {
+        "name": "g-recaptcha-hidden",
+        "id": "",
+        "placeholder": "",
+        "type": "text",
+        "selector": "input:nth-of-type(7)"
+      },
+      {
+        "name": "wpforms[id]",
+        "id": "",
+        "placeholder": "",
+        "type": "hidden",
+        "selector": "input:nth-of-type(8)"
+      },
+      {
+        "name": "page_title",
+        "id": "",
+        "placeholder": "",
+        "type": "hidden",
+        "selector": "input:nth-of-type(9)"
+      },
+      {
+        "name": "page_url",
+        "id": "",
+        "placeholder": "",
+        "type": "hidden",
+        "selector": "input:nth-of-type(10)"
+      },
+      {
+        "name": "url_referer",
+        "id": "",
+        "placeholder": "",
+        "type": "hidden",
+        "selector": "input:nth-of-type(11)"
+      },
+      {
+        "name": "page_id",
+        "id": "",
+        "placeholder": "",
+        "type": "hidden",
+        "selector": "input:nth-of-type(12)"
+      },
+      {
+        "name": "wpforms[post_id]",
+        "id": "",
+        "placeholder": "",
+        "type": "hidden",
+        "selector": "input:nth-of-type(13)"
+      },
+      {
+        "name": "email_address",
+        "id": "",
+        "placeholder": "Email Address",
+        "type": "text",
+        "selector": "input:nth-of-type(14)"
+      },
+      {
+        "name": "tags[]",
+        "id": "",
+        "placeholder": "",
+        "type": "select",
+        "selector": "select:nth-of-type(15)"
+      },
+      {
+        "name": "tags[]",
+        "id": "",
+        "placeholder": "",
+        "type": "select",
+        "selector": "select:nth-of-type(16)"
+      },
+      {
+        "name": "tags[]",
+        "id": "",
+        "placeholder": "",
+        "type": "select",
+        "selector": "select:nth-of-type(17)"
+      }
+    ],
+    "discovered_at": "2026-08-06T18:24:35.545296"
+  },
+  {
+    "title": "Privacy Policy | Practice Test Automation",
+    "url": "https://practicetestautomation.com/privacy-policy/",
+    "links": [
+      {
+        "text": "Press \"Enter\" to skip to content",
+        "href": "https://practicetestautomation.com/privacy-policy/#main-container",
+        "selector": "a:nth-of-type(1)"
+      },
+      {
+        "text": "",
+        "href": "https://practicetestautomation.com/",
+        "selector": "a:nth-of-type(2)"
+      },
+      {
+        "text": "HOME",
+        "href": "https://practicetestautomation.com/",
+        "selector": "a:nth-of-type(3)"
+      },
+      {
+        "text": "PRACTICE",
+        "href": "https://practicetestautomation.com/practice/",
+        "selector": "a:nth-of-type(4)"
+      },
+      {
+        "text": "COURSES",
+        "href": "https://practicetestautomation.com/courses/",
+        "selector": "a:nth-of-type(5)"
+      },
+      {
+        "text": "AI WORKSHOP",
+        "href": "https://practicetestautomation.com/workshop",
+        "selector": "a:nth-of-type(6)"
+      },
+      {
+        "text": "BLOG",
+        "href": "https://practicetestautomation.com/blog/",
+        "selector": "a:nth-of-type(7)"
+      },
+      {
+        "text": "CONTACT",
+        "href": "https://practicetestautomation.com/contact/",
+        "selector": "a:nth-of-type(8)"
+      },
+      {
+        "text": "https://practicetestautomation.com/",
+        "href": "https://practicetestautomation.com/",
+        "selector": "a:nth-of-type(9)"
+      },
+      {
+        "text": "https://practicetestautomation.com/contact/",
+        "href": "https://practicetestautomation.com/contact/",
+        "selector": "a:nth-of-type(10)"
+      },
+      {
+        "text": "Practice Test Automation.",
+        "href": "https://practicetestautomation.com/",
+        "selector": "a:nth-of-type(11)"
+      },
+      {
+        "text": "Privacy Policy",
+        "href": "https://practicetestautomation.com/privacy-policy/",
+        "selector": "a:nth-of-type(12)"
+      }
+    ],
+    "buttons": [
+      {
+        "text": "",
+        "selector": "button:nth-of-type(1)"
+      },
+      {
+        "text": "open menu",
+        "selector": "#toggle-navigation"
+      }
+    ],
+    "inputs": [],
+    "discovered_at": "2026-08-06T18:24:36.489479"
+  },
+  {
+    "title": "Practice Test Automation | Learn Selenium WebDriver",
+    "url": "https://practicetestautomation.com/#main-container",
+    "links": [
+      {
+        "text": "Press \"Enter\" to skip to content",
+        "href": "https://practicetestautomation.com/#main-container",
+        "selector": "a:nth-of-type(1)"
+      },
+      {
+        "text": "",
+        "href": "https://practicetestautomation.com/",
+        "selector": "a:nth-of-type(2)"
+      },
+      {
+        "text": "HOME",
+        "href": "https://practicetestautomation.com/",
+        "selector": "a:nth-of-type(3)"
+      },
+      {
+        "text": "PRACTICE",
+        "href": "https://practicetestautomation.com/practice/",
+        "selector": "a:nth-of-type(4)"
+      },
+      {
+        "text": "COURSES",
+        "href": "https://practicetestautomation.com/courses/",
+        "selector": "a:nth-of-type(5)"
+      },
+      {
+        "text": "AI WORKSHOP",
+        "href": "https://practicetestautomation.com/workshop",
+        "selector": "a:nth-of-type(6)"
+      },
+      {
+        "text": "BLOG",
+        "href": "https://practicetestautomation.com/blog/",
+        "selector": "a:nth-of-type(7)"
+      },
+      {
+        "text": "CONTACT",
+        "href": "https://practicetestautomation.com/contact/",
+        "selector": "a:nth-of-type(8)"
+      },
+      {
+        "text": "nine courses with over 100,000 students",
+        "href": "https://practicetestautomation.com/courses/",
+        "selector": "a:nth-of-type(9)"
+      },
+      {
+        "text": "BestSeller XPath course",
+        "href": "https://www.udemy.com/course/xpath-locators-for-selenium/?referralCode=ACB28329B5AC2333DDCC",
+        "selector": "a:nth-of-type(10)"
+      },
+      {
+        "text": "HighestRated Selenium course",
+        "href": "https://www.udemy.com/course/selenium-for-beginners/?referralCode=A21BE51035C15406EFA4",
+        "selector": "a:nth-of-type(11)"
+      },
+      {
+        "text": "diverse selection of articles, standalone lectures, tips, and examples",
+        "href": "https://practicetestautomation.com/blog/",
+        "selector": "a:nth-of-type(12)"
+      },
+      {
+        "text": "practical platform",
+        "href": "https://practicetestautomation.com/practice/",
+        "selector": "a:nth-of-type(13)"
+      },
+      {
+        "text": "BLOG",
+        "href": "https://practicetestautomation.com/blog/",
+        "selector": "a:nth-of-type(14)"
+      },
+      {
+        "text": "COURSES",
+        "href": "https://practicetestautomation.com/courses/",
+        "selector": "a:nth-of-type(15)"
+      },
+      {
+        "text": "Built with Kit",
+        "href": "https://kit.com/features/forms?utm_campaign=poweredby&utm_content=form&utm_medium=referral&utm_source=dynamic",
+        "selector": "a:nth-of-type(16)"
+      },
+      {
+        "text": "Practice Test Automation.",
+        "href": "https://practicetestautomation.com/",
+        "selector": "a:nth-of-type(17)"
+      },
+      {
+        "text": "Privacy Policy",
+        "href": "https://practicetestautomation.com/privacy-policy/",
+        "selector": "a:nth-of-type(18)"
+      },
+      {
+        "text": "Built with Kit",
+        "href": "https://kit.com/features/forms?utm_campaign=poweredby&utm_content=form&utm_medium=referral&utm_source=dynamic",
+        "selector": "a:nth-of-type(19)"
+      }
+    ],
+    "buttons": [
+      {
+        "text": "",
+        "selector": "button:nth-of-type(1)"
+      },
+      {
+        "text": "open menu",
+        "selector": "#toggle-navigation"
+      },
+      {
+        "text": "Get the cheat sheet",
+        "selector": "button:nth-of-type(3)"
+      },
+      {
+        "text": "Subscribe",
+        "selector": "button:nth-of-type(4)"
+      },
+      {
+        "text": "Close",
+        "selector": "button:nth-of-type(5)"
+      }
+    ],
+    "inputs": [
+      {
+        "name": "email_address",
+        "id": "",
+        "placeholder": "Email Address",
+        "type": "text",
+        "selector": "input:nth-of-type(1)"
+      },
+      {
+        "name": "email_address",
+        "id": "",
+        "placeholder": "Email Address",
+        "type": "text",
+        "selector": "input:nth-of-type(2)"
+      },
+      {
+        "name": "tags[]",
+        "id": "",
+        "placeholder": "",
+        "type": "select",
+        "selector": "select:nth-of-type(3)"
+      },
+      {
+        "name": "tags[]",
+        "id": "",
+        "placeholder": "",
+        "type": "select",
+        "selector": "select:nth-of-type(4)"
+      },
+      {
+        "name": "tags[]",
+        "id": "",
+        "placeholder": "",
+        "type": "select",
+        "selector": "select:nth-of-type(5)"
+      }
+    ],
+    "discovered_at": "2026-08-06T18:24:37.498054"
+  }
+]

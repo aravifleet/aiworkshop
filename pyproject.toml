@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "agentic-qa"
+version = "0.1.0"
+description = "Agentic QA automation framework CLI wrapper for instruction-driven Playwright testing."
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "playwright>=1.0.0",
+    "PyPDF2>=3.0.0",
+    "python-docx>=1.1.0"
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Framework :: AsyncIO",
+    "Topic :: Software Development :: Testing"
+]
+authors = [
+    {name = "Fleet Studio", email = ""}
+]
+
+[project.scripts]
+agentic-qa = "main.cli:main"
