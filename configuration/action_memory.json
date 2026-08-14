@@ -1,0 +1,30 @@
+{
+  "practicetestautomation.com": {
+    "login_page_url": "https://practicetestautomation.com/practice-test-login/",
+    "authenticated_page_urls": [
+      "https://practicetestautomation.com/logged-in-successfully/",
+      "https://practicetestautomation.com/blog/",
+      "https://practicetestautomation.com/courses/",
+      "https://luma.com/d3b2s20o",
+      "https://practicetestautomation.com/contact/",
+      "https://practicetestautomation.com/",
+      "https://practicetestautomation.com/practice/",
+      "https://practicetestautomation.com/practice-test-login/",
+      "https://practicetestautomation.com/practice-test-login/"
+    ],
+    "logout_target": "Log out"
+  },
+  "test-icsample1657400753.pantheonsite.io": {
+    "login_page_url": "https://test-icsample1657400753.pantheonsite.io/user/login?current=/",
+    "authenticated_page_urls": [
+      "https://test-icsample1657400753.pantheonsite.io/cart",
+      "https://test-icsample1657400753.pantheonsite.io/books",
+      "https://test-icsample1657400753.pantheonsite.io/user/login?current=/",
+      "https://test-icsample1657400753.pantheonsite.io/events",
+      "https://test-icsample1657400753.pantheonsite.io/contact-us",
+      "https://test-icsample1657400753.pantheonsite.io/",
+      "https://test-icsample1657400753.pantheonsite.io/user/login?current=/user/login",
+      "https://test-icsample1657400753.pantheonsite.io/user/login?destination=/wishlist"
+    ]
+  }
+}

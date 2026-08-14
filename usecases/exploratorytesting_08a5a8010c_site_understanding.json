@@ -1,0 +1,507 @@
+{
+  "primary_url": "https://test-icsample1657400753.pantheonsite.io/",
+  "requested_usecase_count": 10,
+  "page_count": 26,
+  "auth_detected": true,
+  "login_page_url": "https://test-icsample1657400753.pantheonsite.io/user/login?current=/",
+  "login_page_title": "Log in | IndieCommerce",
+  "logout_target": "logout",
+  "document_focus_areas": [
+    "authentication",
+    "form validation",
+    "navigation",
+    "logout"
+  ],
+  "coverage_hints": [
+    "Include positive login coverage with valid credentials.",
+    "Include logout coverage as part of the high-level auth flow.",
+    "Include invalid and incomplete credential checks.",
+    "Validate visible form behavior and error feedback.",
+    "Cover major navigation paths across discovered pages."
+  ],
+  "pages": [
+    {
+      "title": "Home Page | IndieCommerce",
+      "url": "https://test-icsample1657400753.pantheonsite.io/",
+      "purpose": "contact",
+      "link_count": 284,
+      "button_count": 43,
+      "input_count": 6,
+      "headings": [
+        "Main navigation",
+        "Utility Menu",
+        "HOME PAGE",
+        "Title",
+        "Silent Reading Book Club"
+      ],
+      "auth_related": false,
+      "text_preview": "Skip to main content Main navigation Events EVENTS SUB-NAVIGATION Books BOOKS SUB-NAVIGATION Kid's Fiction Nonfiction School visits with Ernest Cline School visits with Ernest Cline - Single Product Bestsellers About Tickets T-shirt Contact Products Utility Menu Log in Log-in Wis"
+    },
+    {
+      "title": "About Us | IndieCommerce",
+      "url": "https://test-icsample1657400753.pantheonsite.io/about-us",
+      "purpose": "contact",
+      "link_count": 34,
+      "button_count": 6,
+      "input_count": 2,
+      "headings": [
+        "Main navigation",
+        "Utility Menu",
+        "ABOUT US",
+        "Upcoming Event",
+        "SAMPLE EVENT"
+      ],
+      "auth_related": false,
+      "text_preview": "Skip to main content Main navigation Events EVENTS SUB-NAVIGATION Books BOOKS SUB-NAVIGATION Kid's Fiction Nonfiction School visits with Ernest Cline School visits with Ernest Cline - Single Product Bestsellers About Tickets T-shirt Contact Products Utility Menu Log in Log-in Wis"
+    },
+    {
+      "title": "Indie Bestsellers for August 5th, 2026 | IndieCommerce",
+      "url": "https://test-icsample1657400753.pantheonsite.io/indie-bestsellers",
+      "purpose": "contact",
+      "link_count": 297,
+      "button_count": 39,
+      "input_count": 2,
+      "headings": [
+        "Main navigation",
+        "Utility Menu",
+        "HARDCOVER FICTION BESTSELLERS",
+        "HARDCOVER NONFICTION BESTSELLERS",
+        "TRADE PAPERBACK FICTION BESTSELLERS"
+      ],
+      "auth_related": false,
+      "text_preview": "Skip to main content Main navigation Events EVENTS SUB-NAVIGATION Books BOOKS SUB-NAVIGATION Kid's Fiction Nonfiction School visits with Ernest Cline School visits with Ernest Cline - Single Product Bestsellers About Tickets T-shirt Contact Products Utility Menu Log in Log-in Wis"
+    },
+    {
+      "title": "Books | IndieCommerce",
+      "url": "https://test-icsample1657400753.pantheonsite.io/books",
+      "purpose": "contact",
+      "link_count": 72,
+      "button_count": 8,
+      "input_count": 12,
+      "headings": [
+        "Main navigation",
+        "Utility Menu",
+        "BOOKS",
+        "Price",
+        "Staff pick"
+      ],
+      "auth_related": false,
+      "text_preview": "Skip to main content Main navigation Events EVENTS SUB-NAVIGATION Books BOOKS SUB-NAVIGATION Contact Products Utility Menu Log in Log-in Wishlists Wishlist Cart Cart All selections except for books will open in a new window Search type Books Audiobooks audio_book Local Books Merc"
+    },
+    {
+      "title": "Shopping cart | IndieCommerce",
+      "url": "https://test-icsample1657400753.pantheonsite.io/cart",
+      "purpose": "contact",
+      "link_count": 58,
+      "button_count": 6,
+      "input_count": 2,
+      "headings": [
+        "Main navigation",
+        "Utility Menu",
+        "Shopping Cart",
+        "ORDER DETAILS",
+        "Upcoming Event"
+      ],
+      "auth_related": false,
+      "text_preview": "Skip to main content Main navigation Events EVENTS SUB-NAVIGATION Books BOOKS SUB-NAVIGATION Kid's Fiction Nonfiction School visits with Ernest Cline School visits with Ernest Cline - Single Product Bestsellers About Tickets T-shirt Contact Products Utility Menu Log in Log-in Wis"
+    },
+    {
+      "title": "Contact Us | IndieCommerce",
+      "url": "https://test-icsample1657400753.pantheonsite.io/contact-us",
+      "purpose": "contact",
+      "link_count": 64,
+      "button_count": 7,
+      "input_count": 9,
+      "headings": [
+        "Main navigation",
+        "Utility Menu",
+        "CONTACT US",
+        "ORDER QUESTIONS?",
+        "Store Hours"
+      ],
+      "auth_related": false,
+      "text_preview": "Skip to main content Main navigation Events EVENTS SUB-NAVIGATION Books BOOKS SUB-NAVIGATION Kid's Fiction Nonfiction School visits with Ernest Cline School visits with Ernest Cline - Single Product Bestsellers About Tickets T-shirt Contact Products Utility Menu Log in Log-in Wis"
+    },
+    {
+      "title": "Events | IndieCommerce",
+      "url": "https://test-icsample1657400753.pantheonsite.io/events",
+      "purpose": "contact",
+      "link_count": 47,
+      "button_count": 6,
+      "input_count": 3,
+      "headings": [
+        "Main navigation",
+        "Utility Menu",
+        "EVENTS",
+        "AUGUST 2026",
+        "SAMPLE EVENT"
+      ],
+      "auth_related": false,
+      "text_preview": "Skip to main content Main navigation Events EVENTS SUB-NAVIGATION Books BOOKS SUB-NAVIGATION Kid's Fiction Nonfiction School visits with Ernest Cline School visits with Ernest Cline - Single Product Bestsellers About Tickets T-shirt Contact Products Utility Menu Log in Log-in Wis"
+    },
+    {
+      "title": "Books | IndieCommerce",
+      "url": "https://test-icsample1657400753.pantheonsite.io/books/childrens-fiction",
+      "purpose": "contact",
+      "link_count": 113,
+      "button_count": 8,
+      "input_count": 4,
+      "headings": [
+        "Main navigation",
+        "Utility Menu",
+        "BOOKS",
+        "Price",
+        "Staff pick"
+      ],
+      "auth_related": false,
+      "text_preview": "Skip to main content Main navigation Events EVENTS SUB-NAVIGATION Books BOOKS SUB-NAVIGATION Contact Products Utility Menu Log in Log-in Wishlists Wishlist Cart Cart All selections except for books will open in a new window Search type Books Audiobooks audio_book Local Books Merc"
+    },
+    {
+      "title": "Log in | IndieCommerce",
+      "url": "https://test-icsample1657400753.pantheonsite.io/user/login?current=/",
+      "purpose": "authentication",
+      "link_count": 60,
+      "button_count": 7,
+      "input_count": 5,
+      "headings": [
+        "Main navigation",
+        "Utility Menu",
+        "LOGIN TO YOUR ACCOUNT",
+        "Upcoming Event",
+        "SAMPLE EVENT"
+      ],
+      "auth_related": true,
+      "text_preview": "Skip to main content Main navigation Events EVENTS SUB-NAVIGATION Books BOOKS SUB-NAVIGATION Kid's Fiction Nonfiction School visits with Ernest Cline School visits with Ernest Cline - Single Product Bestsellers About Tickets T-shirt Contact Products Utility Menu Log in Log-in Wis"
+    },
+    {
+      "title": "Trade Paperback Nonfiction Bestsellers | IndieCommerce",
+      "url": "https://test-icsample1657400753.pantheonsite.io/list/trade-paperback-nonfiction-bestsellers",
+      "purpose": "contact",
+      "link_count": 122,
+      "button_count": 6,
+      "input_count": 2,
+      "headings": [
+        "Main navigation",
+        "Utility Menu",
+        "TRADE PAPERBACK NONFICTION BESTSELLERS",
+        "A Marriage at Sea: A True Story of Love, Obsession, and Shipwreck",
+        "Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants"
+      ],
+      "auth_related": false,
+      "text_preview": "Skip to main content Main navigation Events EVENTS SUB-NAVIGATION Books BOOKS SUB-NAVIGATION Kid's Fiction Nonfiction School visits with Ernest Cline School visits with Ernest Cline - Single Product Bestsellers About Tickets T-shirt Contact Products Utility Menu Log in Log-in Wis"
+    },
+    {
+      "title": "Themed T-Shirt | IndieCommerce",
+      "url": "https://test-icsample1657400753.pantheonsite.io/product/themed-t-shirt",
+      "purpose": "contact",
+      "link_count": 56,
+      "button_count": 12,
+      "input_count": 6,
+      "headings": [
+        "Main navigation",
+        "Utility Menu",
+        "Themed T-Shirt",
+        "Themed T-Shirt",
+        "DESCRIPTION"
+      ],
+      "auth_related": false,
+      "text_preview": "Skip to main content Main navigation Events EVENTS SUB-NAVIGATION Books BOOKS SUB-NAVIGATION Contact Products Utility Menu Log in Log-in Wishlists Wishlist Cart Cart All selections except for books will open in a new window Search type Books Audiobooks audio_book Local Books Merc"
+    },
+    {
+      "title": "Event tickets | IndieCommerce",
+      "url": "https://test-icsample1657400753.pantheonsite.io/product/event-tickets",
+      "purpose": "contact",
+      "link_count": 78,
+      "button_count": 13,
+      "input_count": 4,
+      "headings": [
+        "Main navigation",
+        "Utility Menu",
+        "Event tickets",
+        "Event tickets",
+        "DESCRIPTION"
+      ],
+      "auth_related": false,
+      "text_preview": "Skip to main content Main navigation Events EVENTS SUB-NAVIGATION Books BOOKS SUB-NAVIGATION Contact Products Utility Menu Log in Log-in Wishlists Wishlist Cart Cart All selections except for books will open in a new window Search type Books Audiobooks audio_book Local Books Merc"
+    },
+    {
+      "title": "Log in | IndieCommerce",
+      "url": "https://test-icsample1657400753.pantheonsite.io/user/login?destination=/wishlist",
+      "purpose": "authentication",
+      "link_count": 37,
+      "button_count": 7,
+      "input_count": 5,
+      "headings": [
+        "Main navigation",
+        "Utility Menu",
+        "LOGIN TO YOUR ACCOUNT",
+        "Status message",
+        "Upcoming Event"
+      ],
+      "auth_related": true,
+      "text_preview": "Skip to main content Main navigation Events EVENTS SUB-NAVIGATION Books BOOKS SUB-NAVIGATION Kid's Fiction Nonfiction School visits with Ernest Cline School visits with Ernest Cline - Single Product Bestsellers About Tickets T-shirt Contact Products Utility Menu Log in Log-in Wis"
+    },
+    {
+      "title": "Accessibility Statement | IndieCommerce",
+      "url": "https://test-icsample1657400753.pantheonsite.io/accessibility-statement",
+      "purpose": "contact",
+      "link_count": 37,
+      "button_count": 6,
+      "input_count": 2,
+      "headings": [
+        "Main navigation",
+        "Utility Menu",
+        "ACCESSIBILITY STATEMENT",
+        "Measures to support the accessibility",
+        "Conformance Status"
+      ],
+      "auth_related": false,
+      "text_preview": "Skip to main content Main navigation Events EVENTS SUB-NAVIGATION Books BOOKS SUB-NAVIGATION Kid's Fiction Nonfiction School visits with Ernest Cline School visits with Ernest Cline - Single Product Bestsellers About Tickets T-shirt Contact Products Utility Menu Log in Log-in Wis"
+    },
+    {
+      "title": "Events | IndieCommerce",
+      "url": "https://test-icsample1657400753.pantheonsite.io/events/calendar",
+      "purpose": "contact",
+      "link_count": 40,
+      "button_count": 6,
+      "input_count": 3,
+      "headings": [
+        "Main navigation",
+        "Utility Menu",
+        "EVENTS",
+        "AUGUST 2026",
+        "SAMPLE EVENT"
+      ],
+      "auth_related": false,
+      "text_preview": "Skip to main content Main navigation Events EVENTS SUB-NAVIGATION Books BOOKS SUB-NAVIGATION Kid's Fiction Nonfiction School visits with Ernest Cline School visits with Ernest Cline - Single Product Bestsellers About Tickets T-shirt Contact Products Utility Menu Log in Log-in Wis"
+    },
+    {
+      "title": "Hardcover Fiction Bestsellers | IndieCommerce",
+      "url": "https://test-icsample1657400753.pantheonsite.io/list/hardcover-fiction-bestsellers",
+      "purpose": "contact",
+      "link_count": 124,
+      "button_count": 6,
+      "input_count": 2,
+      "headings": [
+        "Main navigation",
+        "Utility Menu",
+        "HARDCOVER FICTION BESTSELLERS",
+        "Yesteryear: A GMA Book Club Pick: A Novel",
+        "Whistler: A Novel"
+      ],
+      "auth_related": false,
+      "text_preview": "Skip to main content Main navigation Events EVENTS SUB-NAVIGATION Books BOOKS SUB-NAVIGATION Kid's Fiction Nonfiction School visits with Ernest Cline School visits with Ernest Cline - Single Product Bestsellers About Tickets T-shirt Contact Products Utility Menu Log in Log-in Wis"
+    },
+    {
+      "title": "Trade Paperback Fiction Bestsellers | IndieCommerce",
+      "url": "https://test-icsample1657400753.pantheonsite.io/list/trade-paperback-fiction-bestsellers",
+      "purpose": "contact",
+      "link_count": 126,
+      "button_count": 7,
+      "input_count": 3,
+      "headings": [
+        "Main navigation",
+        "Utility Menu",
+        "TRADE PAPERBACK FICTION BESTSELLERS",
+        "Theo of Golden: A Novel",
+        "Dungeon Crawler Carl"
+      ],
+      "auth_related": false,
+      "text_preview": "Skip to main content Main navigation Events EVENTS SUB-NAVIGATION Books BOOKS SUB-NAVIGATION Kid's Fiction Nonfiction School visits with Ernest Cline School visits with Ernest Cline - Single Product Bestsellers About Tickets T-shirt Contact Products Utility Menu Log in Log-in Wis"
+    },
+    {
+      "title": "show badges | IndieCommerce",
+      "url": "https://test-icsample1657400753.pantheonsite.io/list/show-badges",
+      "purpose": "contact",
+      "link_count": 52,
+      "button_count": 7,
+      "input_count": 3,
+      "headings": [
+        "Main navigation",
+        "Utility Menu",
+        "SHOW BADGES",
+        "Demon Copperhead: A Novel",
+        "Now You're One of Us: The Incredible Story of Redd Kross"
+      ],
+      "auth_related": false,
+      "text_preview": "Skip to main content Main navigation Events EVENTS SUB-NAVIGATION Books BOOKS SUB-NAVIGATION Kid's Fiction Nonfiction School visits with Ernest Cline School visits with Ernest Cline - Single Product Bestsellers About Tickets T-shirt Contact Products Utility Menu Log in Log-in Wis"
+    },
+    {
+      "title": "Products with badges | IndieCommerce",
+      "url": "https://test-icsample1657400753.pantheonsite.io/list/products-badges",
+      "purpose": "contact",
+      "link_count": 64,
+      "button_count": 7,
+      "input_count": 3,
+      "headings": [
+        "Main navigation",
+        "Utility Menu",
+        "PRODUCTS WITH BADGES",
+        "The Art Thief: A True Story of Love, Crime, and a Dangerous Obsession",
+        "25 Alive: A Women's Murder Club Thriller"
+      ],
+      "auth_related": false,
+      "text_preview": "Skip to main content Main navigation Events EVENTS SUB-NAVIGATION Books BOOKS SUB-NAVIGATION Kid's Fiction Nonfiction School visits with Ernest Cline School visits with Ernest Cline - Single Product Bestsellers About Tickets T-shirt Contact Products Utility Menu Log in Log-in Wis"
+    },
+    {
+      "title": "Log in | IndieCommerce",
+      "url": "https://test-icsample1657400753.pantheonsite.io/user/login?current=/about-us",
+      "purpose": "authentication",
+      "link_count": 36,
+      "button_count": 7,
+      "input_count": 5,
+      "headings": [
+        "Main navigation",
+        "Utility Menu",
+        "LOGIN TO YOUR ACCOUNT",
+        "Upcoming Event",
+        "SAMPLE EVENT"
+      ],
+      "auth_related": true,
+      "text_preview": "Skip to main content Main navigation Events EVENTS SUB-NAVIGATION Books BOOKS SUB-NAVIGATION Kid's Fiction Nonfiction School visits with Ernest Cline School visits with Ernest Cline - Single Product Bestsellers About Tickets T-shirt Contact Products Utility Menu Log in Log-in Wis"
+    },
+    {
+      "title": "Reset your password | IndieCommerce",
+      "url": "https://test-icsample1657400753.pantheonsite.io/user/password",
+      "purpose": "contact",
+      "link_count": 35,
+      "button_count": 7,
+      "input_count": 5,
+      "headings": [
+        "Main navigation",
+        "Utility Menu",
+        "FORGOT YOUR PASSWORD?",
+        "Upcoming Event",
+        "SAMPLE EVENT"
+      ],
+      "auth_related": false,
+      "text_preview": "Skip to main content Main navigation Events EVENTS SUB-NAVIGATION Books BOOKS SUB-NAVIGATION Kid's Fiction Nonfiction School visits with Ernest Cline School visits with Ernest Cline - Single Product Bestsellers About Tickets T-shirt Contact Products Utility Menu Log in Log-in Wis"
+    },
+    {
+      "title": "Sample Event | IndieCommerce",
+      "url": "https://test-icsample1657400753.pantheonsite.io/event/2026-08-28/sample-event",
+      "purpose": "contact",
+      "link_count": 41,
+      "button_count": 6,
+      "input_count": 2,
+      "headings": [
+        "Main navigation",
+        "Utility Menu",
+        "SAMPLE EVENT",
+        "EVENT RELATED BOOKS & PRODUCTS",
+        "Yesteryear: A GMA Book Club Pick: A Novel"
+      ],
+      "auth_related": false,
+      "text_preview": "Skip to main content Main navigation Events EVENTS SUB-NAVIGATION Books BOOKS SUB-NAVIGATION Kid's Fiction Nonfiction School visits with Ernest Cline School visits with Ernest Cline - Single Product Bestsellers About Tickets T-shirt Contact Products Utility Menu Log in Log-in Wis"
+    },
+    {
+      "title": "Log in | IndieCommerce",
+      "url": "https://test-icsample1657400753.pantheonsite.io/user/login?current=/indie-bestsellers",
+      "purpose": "authentication",
+      "link_count": 36,
+      "button_count": 7,
+      "input_count": 5,
+      "headings": [
+        "Main navigation",
+        "Utility Menu",
+        "LOGIN TO YOUR ACCOUNT",
+        "Upcoming Event",
+        "SAMPLE EVENT"
+      ],
+      "auth_related": true,
+      "text_preview": "Skip to main content Main navigation Events EVENTS SUB-NAVIGATION Books BOOKS SUB-NAVIGATION Kid's Fiction Nonfiction School visits with Ernest Cline School visits with Ernest Cline - Single Product Bestsellers About Tickets T-shirt Contact Products Utility Menu Log in Log-in Wis"
+    },
+    {
+      "title": "Hardcover Nonfiction Bestsellers | IndieCommerce",
+      "url": "https://test-icsample1657400753.pantheonsite.io/list/hardcover-nonfiction-bestsellers",
+      "purpose": "contact",
+      "link_count": 126,
+      "button_count": 7,
+      "input_count": 3,
+      "headings": [
+        "Main navigation",
+        "Utility Menu",
+        "HARDCOVER NONFICTION BESTSELLERS",
+        "Regime Change: Inside the Imperial Presidency of Donald Trump",
+        "The Land and Its People: Essays"
+      ],
+      "auth_related": false,
+      "text_preview": "Skip to main content Main navigation Events EVENTS SUB-NAVIGATION Books BOOKS SUB-NAVIGATION Kid's Fiction Nonfiction School visits with Ernest Cline School visits with Ernest Cline - Single Product Bestsellers About Tickets T-shirt Contact Products Utility Menu Log in Log-in Wis"
+    },
+    {
+      "title": "Mass Market Bestsellers | IndieCommerce",
+      "url": "https://test-icsample1657400753.pantheonsite.io/list/mass-market-bestsellers",
+      "purpose": "contact",
+      "link_count": 102,
+      "button_count": 6,
+      "input_count": 2,
+      "headings": [
+        "Main navigation",
+        "Utility Menu",
+        "MASS MARKET BESTSELLERS",
+        "1984: 75th Anniversary",
+        "Animal Farm: 75th Anniversary Edition"
+      ],
+      "auth_related": false,
+      "text_preview": "Skip to main content Main navigation Events EVENTS SUB-NAVIGATION Books BOOKS SUB-NAVIGATION Kid's Fiction Nonfiction School visits with Ernest Cline School visits with Ernest Cline - Single Product Bestsellers About Tickets T-shirt Contact Products Utility Menu Log in Log-in Wis"
+    },
+    {
+      "title": "Log in | IndieCommerce",
+      "url": "https://test-icsample1657400753.pantheonsite.io/user/login?current=/user/login",
+      "purpose": "authentication",
+      "link_count": 36,
+      "button_count": 7,
+      "input_count": 5,
+      "headings": [
+        "Main navigation",
+        "Utility Menu",
+        "LOGIN TO YOUR ACCOUNT",
+        "Upcoming Event",
+        "SAMPLE EVENT"
+      ],
+      "auth_related": true,
+      "text_preview": "Skip to main content Main navigation Events EVENTS SUB-NAVIGATION Books BOOKS SUB-NAVIGATION Kid's Fiction Nonfiction School visits with Ernest Cline School visits with Ernest Cline - Single Product Bestsellers About Tickets T-shirt Contact Products Utility Menu Log in Log-in Wis"
+    }
+  ],
+  "summary_text": "Discovered 26 page(s). Primary auth page: Log in | IndieCommerce. Focus areas: authentication, form validation, navigation, logout.",
+  "requirement_understanding": {
+    "primary_url": "https://test-icsample1657400753.pantheonsite.io/",
+    "instruction_count": 3,
+    "requested_usecase_count": 10,
+    "credentials_provided": true,
+    "credential_mode": "email",
+    "fresh_dom_required": true,
+    "exploratory_request": true,
+    "focus_areas": [
+      "authentication",
+      "form validation",
+      "navigation",
+      "logout"
+    ],
+    "action_keywords": [
+      "responsive coverage",
+      "navigation and link coverage",
+      "commerce and checkout flow",
+      "form interactions and validation",
+      "authentication-aware flow",
+      "fresh DOM capture without reuse"
+    ],
+    "key_requirements": [
+      "We recently developed an instance - https://test-icsample1657400753.pantheonsite.io/, we require a responsive testing, checking all available links - doing all possible actions, ecommerce checkout, clicking all links and filling all possible forms, if require use the below credentials if the operation requires including login logout.",
+      "For every run, capture the DOM freshly at the start and delete any previously stored DOM structure before proceeding. Do not reuse an older DOM snapshot or cached structure from a previous run. This is required so any site changes are picked up newly each time instead of the process getting stuck on an old structure.",
+      "Usecases needed only 10"
+    ],
+    "source_excerpt": [
+      "We recently developed an instance - https://test-icsample1657400753.pantheonsite.io/, we require a responsive testing, checking all available links - doing all possible actions, ecommerce checkout, clicking all links and filling all possible forms, if require use the below credentials if the operation requires including login logout.",
+      "",
+      "For every run, capture the DOM freshly at the start and delete any previously stored DOM structure before proceeding. Do not reuse an older DOM snapshot or cached structure from a previous run. This is required so any site changes are picked up newly each time instead of the process getting stuck on an old structure.",
+      "",
+      "Usecases needed only 10",
+      "",
+      "credentials :",
+      "",
+      "email : aravi+temp2@fleetstudio.com",
+      "password : Fleet@1994"
+    ]
+  }
+}
