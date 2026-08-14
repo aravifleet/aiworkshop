@@ -2,17 +2,17 @@
 
 ## Purpose
 
-This workspace implements an Agentic-QA framework that reads developer instruction files from `/docsnew`, generates reusable use cases, asks for approval, captures DOM across discovered pages, runs Playwright automation, and writes reports plus QA-ready Playwright assets.
+This workspace implements an Agentic-QA framework that reads developer instruction files from `/docsnew`, drafts use cases for approval, captures DOM across discovered pages, runs Playwright automation, and writes reports plus QA-ready Playwright assets.
 
 ## Folder Structure
 
 - `/docsnew` - developer instruction `.md`, `.txt`, `.pdf`, or `.docx` files
-- `/playwright-script` - generated flat Playwright runner scripts
-- `/playwrightfolder` - reusable POM-style Playwright assets for QA
-- `/dom/dom_elements` - DOM snapshots and `dom_inventory.json`
-- `/screenshots` - passed scenario full-page screenshots
-- `/failusecases` - failed scenario screenshots
-- `/usecases` - generated use case `.json`, `.md`, `.txt`, `.csv` files
+- `/playwright-script` - generated flat Playwright runner scripts for the current run
+- `/playwrightfolder` - generated POM-style Playwright assets for the current run
+- `/dom/dom_elements` - DOM snapshots and `dom_inventory.json` for the current run
+- `/screenshots` - screenshots for every executed use case
+- `/failusecases` - copies of failed-use-case screenshots
+- `/usecases` - generated use case `.json`, `.md`, `.txt`, `.csv` files for the current run
 - `/results` - `results.csv`, `results.txt`, `results.md`, `results.json`
 - `/reports` - JSON report and Extent-style HTML report
 - `/configuration` - config such as `playwright_config.json`
@@ -33,8 +33,9 @@ python -m playwright install
 
 1. Put an instruction file in `/docsnew` or use the VS Code paste flow.
 2. Make sure the document contains the target URL.
-3. Optional metadata such as `Username:` and `Password:` can be included.
-4. Run the CLI:
+3. Optional metadata such as `Username:`, `Password:`, and `Email:` can be included.
+4. If you need a specific total, say it directly in the document, for example `Draft 50 use cases based on this scenario`.
+5. Run the CLI:
 
 ```powershell
 agentic-qa
@@ -46,9 +47,9 @@ Or:
 python -m main.cli --file docsnew\example.md
 ```
 
-5. Review the seed use cases created in `/usecases`.
-6. Approve in the terminal with `Y`.
-7. After the run completes, review:
+6. Review the generated use cases in `/usecases`.
+7. Approve in the terminal with `Y`.
+8. After the run completes, review:
 
 - `/usecases`
 - `/results`
@@ -59,15 +60,20 @@ python -m main.cli --file docsnew\example.md
 - `/playwrightfolder`
 - `/dom/dom_elements`
 
+## Clean Output Behavior
+
+- Every new run removes old generated use cases, test results, reports, screenshots, failure screenshots, DOM snapshots, and generated Playwright assets before writing fresh files.
+- The workspace keeps only the current run's generated outputs, which prevents old artifacts from piling up between runs.
+
 ## How It Works
 
 1. The runner reads a selected `.md`, `.txt`, `.pdf`, or `.docx` instruction file.
-2. It extracts the target URL and metadata.
-3. It writes seed use cases and asks for approval.
+2. It extracts the target URL, metadata, and actionable instruction lines.
+3. It writes generated use cases and asks for approval.
 4. After approval, it captures fresh DOM snapshots and discovers same-site pages.
-5. It expands the final use cases, stores them for reuse, and writes Playwright assets.
+5. It expands the final use case set, respecting an explicit requested count when the document provides one.
 6. It runs the use cases with Playwright.
-7. It writes results and reports.
+7. It writes results, screenshots, and reports with clear `PASS` or `FAIL` labels.
 
 ## Expected Output
 
@@ -88,6 +94,7 @@ python -m main.cli --file docsnew\example.md
 
 ## Notes
 
-- Approved use cases are reused on later runs of the same scenario unless you run with `--regenerate`.
-- DOM snapshots are refreshed on every execution run.
-- The framework enforces a 20-second click timeout by default through `configuration/playwright_config.json`.
+- Explicit counts like `draft 50 use cases` are respected as the total generated count.
+- Happy path, negative, and edge coverage remain part of the generated output.
+- Screenshots are captured for every executed use case.
+- Parsing is intentionally conservative so headings and formatting noise are less likely to turn into invented steps.

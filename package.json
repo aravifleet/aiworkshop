@@ -1,0 +1,8 @@
+{
+  "name": "agentic-qa-workspace",
+  "private": true,
+  "scripts": {
+    "prepare-python-bundle": "npm --prefix vscode-extension run prepare-python-bundle",
+    "vsix:package": "npm --prefix vscode-extension run package:vsix"
+  }
+}
