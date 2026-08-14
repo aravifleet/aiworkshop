@@ -2,8 +2,13 @@
   "name": "agentic-qa",
   "displayName": "Agentic-QA",
   "description": "Run the Agentic-QA automation framework directly from VS Code.",
-  "version": "0.2.9",
+  "version": "0.2.15",
   "publisher": "aravifleet",
+  "scripts": {
+    "prepare-python-bundle": "node ./scripts/prepare-python-bundle.js",
+    "vscode:prepublish": "npm run prepare-python-bundle",
+    "package:vsix": "node ./scripts/package-vsix.js"
+  },
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -23,7 +28,8 @@
     "url": "https://github.com/aravifleet/aiworkshop.git"
   },
   "activationEvents": [
-    "onCommand:agenticQA.run"
+    "onCommand:agenticQA.run",
+    "onCommand:agenticQA.teach"
   ],
   "main": "./extension.js",
   "contributes": {
@@ -31,6 +37,10 @@
       {
         "command": "agenticQA.run",
         "title": "Agentic-QA: Run automation"
+      },
+      {
+        "command": "agenticQA.teach",
+        "title": "Agentic-QA: Teach from manual exploration"
       }
     ],
     "configuration": {
@@ -39,10 +49,13 @@
       "properties": {
         "agenticQA.pythonPath": {
           "type": "string",
-          "default": "python",
-          "description": "Python executable used to launch the Agentic QA CLI."
+          "default": "",
+          "description": "Optional Python executable used to launch the Agentic QA CLI. Leave empty to use python on Windows or python3 on macOS/Linux."
         }
       }
     }
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^3.9.2"
   }
 }
