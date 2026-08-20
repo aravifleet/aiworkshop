@@ -1,0 +1,56 @@
+{
+  "artifacts": {
+    "gapReportPath": "C:\\Users\\Fleet Studio-75\\OneDrive\\Desktop\\Agentic_qa\\artifacts\\ecommercechechout-gap-report.md",
+    "profilePath": "C:\\Users\\Fleet Studio-75\\OneDrive\\Desktop\\Agentic_qa\\artifacts\\ecommercechechout-app-profile.json"
+  },
+  "capabilities": {
+    "addToCart": true,
+    "cartAccess": true,
+    "checkoutEntry": true,
+    "checkoutForm": true,
+    "login": true
+  },
+  "cart": {
+    "checkoutSelector": "[data-test=\"checkout\"]",
+    "itemCountEstimate": 1,
+    "removeButtonCount": 1,
+    "url": "https://www.saucedemo.com/cart.html"
+  },
+  "checkout": {
+    "discoveredFieldLabels": [],
+    "firstNameSelector": "[data-test=\"firstName\"]",
+    "lastNameSelector": "[data-test=\"lastName\"]",
+    "postalCodeSelector": "[data-test=\"postalCode\"]",
+    "url": "https://www.saucedemo.com/checkout-step-one.html"
+  },
+  "gaps": [],
+  "generatedAt": "2026-08-19T12:02:33.040Z",
+  "home": {
+    "cartHref": null,
+    "cartSelector": "[data-test=\"shopping-cart-link\"]",
+    "loginHref": null,
+    "productHref": "https://www.saucedemo.com/inventory.html",
+    "title": "Swag Labs",
+    "url": "https://www.saucedemo.com/"
+  },
+  "login": {
+    "logoutDetected": false,
+    "passwordSelector": "[data-test=\"password\"]",
+    "submitSelector": "[data-test=\"login-button\"]",
+    "success": true,
+    "successUrl": "https://www.saucedemo.com/inventory.html",
+    "url": "https://www.saucedemo.com/",
+    "usernameSelector": "[data-test=\"username\"]"
+  },
+  "product": {
+    "addToCartSelector": "[data-test*=\"add-to-cart\"]",
+    "quantitySelector": null,
+    "title": "Swag Labs",
+    "url": "https://www.saucedemo.com/inventory.html"
+  },
+  "story": {
+    "baseUrl": "https://www.saucedemo.com",
+    "path": "C:\\Users\\Fleet Studio-75\\OneDrive\\Desktop\\Agentic_qa\\user-stories\\ecommercechechout.md",
+    "title": "SCRUM-101 - E-commerce Checkout Process"
+  }
+}

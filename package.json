@@ -1,0 +1,17 @@
+{
+  "name": "agentic_qa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "qa:adaptive": "playwright test tests/adaptive-checkout --project=chromium --workers=1",
+    "qa:adaptive:list": "playwright test tests/adaptive-checkout --list"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.2.0"
+  }
+}

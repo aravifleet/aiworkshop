@@ -1,0 +1,95 @@
+{
+  "artifacts": {
+    "gapReportPath": "C:\\Users\\Fleet Studio-75\\OneDrive\\Desktop\\Agentic_qa\\artifacts\\pantheon-checkout-gap-report.md",
+    "profilePath": "C:\\Users\\Fleet Studio-75\\OneDrive\\Desktop\\Agentic_qa\\artifacts\\pantheon-checkout-app-profile.json"
+  },
+  "capabilities": {
+    "addToCart": true,
+    "cartAccess": true,
+    "checkoutEntry": true,
+    "checkoutForm": false,
+    "login": true
+  },
+  "cart": {
+    "checkoutSelector": "button:has-text(\"Checkout\")",
+    "itemCountEstimate": 1,
+    "removeButtonCount": 1,
+    "url": "https://test-icsample1657400753.pantheonsite.io/cart"
+  },
+  "checkout": {
+    "discoveredFieldLabels": [
+      "Search type",
+      "Search",
+      "Select an address",
+      "UPS Ground: $10.00",
+      "Custom method: $7.00",
+      "sdfgh: $4.83",
+      "USPS Domestic - Media Mail: $4.83",
+      "USPS Domestic - Priority Mail: $12.10",
+      "USPS Domestic - Priority Mail Express: $39.49",
+      "USPS Domestic - USPS Ground Advantage: $10.51",
+      "Shipping method - preorder free: $0.00",
+      "Shippping - Free above 50: $0.00",
+      "UPS 2-Day: $22.95",
+      "UPS Overnight updated: $30.95",
+      "$1.00 for all domestic orders: $1.00",
+      "USPS Priority Mail: $12.20",
+      "Visa ending in 1111",
+      "Visa ending in 4242",
+      "PayPal",
+      "Credit card",
+      "Purchase Order",
+      "House Account",
+      "Yes, I would like a gift receipt.",
+      "Yes",
+      "No",
+      "Gift message",
+      "Do not include my address in the gift receipt.",
+      "Yes, I would like gift wrapping",
+      "Silver",
+      "Christmas weave",
+      "ID/Name/Phone#",
+      "Customer Comments",
+      "Giftcard code",
+      "Coupon code",
+      "Yes! I have a store gift card",
+      "Store Gift Card"
+    ],
+    "firstNameSelector": null,
+    "lastNameSelector": null,
+    "postalCodeSelector": null,
+    "url": "https://test-icsample1657400753.pantheonsite.io/checkout/79277/order_information"
+  },
+  "gaps": [
+    "A checkout information form with discoverable first name / last name / postal code fields was not reached."
+  ],
+  "generatedAt": "2026-08-19T12:28:02.574Z",
+  "home": {
+    "cartHref": "https://test-icsample1657400753.pantheonsite.io/cart",
+    "cartSelector": "a[href*=\"/cart\"]",
+    "loginHref": "https://test-icsample1657400753.pantheonsite.io/user/login?current=/",
+    "productHref": "https://test-icsample1657400753.pantheonsite.io/book/9798217154746",
+    "title": "Home Page | IndieCommerce",
+    "url": "https://test-icsample1657400753.pantheonsite.io/"
+  },
+  "login": {
+    "logoutDetected": false,
+    "passwordSelector": "input[type=\"password\"]",
+    "submitSelector": "input[type=\"submit\"][value*=\"Log\" i]",
+    "success": true,
+    "successUrl": "https://test-icsample1657400753.pantheonsite.io/user/52?check_logged_in=1",
+    "url": "https://test-icsample1657400753.pantheonsite.io/user/login?current=/",
+    "usernameSelector": "input[type=\"email\"]"
+  },
+  "product": {
+    "addToCartSelector": "input[value=\"Add to cart\"]:not([disabled])",
+    "quantitySelector": "input[type=\"number\"][name*=\"quantity\" i]",
+    "title": "The Things We Never Say: A Novel | IndieCommerce",
+    "url": "https://test-icsample1657400753.pantheonsite.io/book/9798217154746"
+  },
+  "story": {
+    "baseUrl": "https://test-icsample1657400753.pantheonsite.io/",
+    "path": "C:\\Users\\Fleet Studio-75\\OneDrive\\Desktop\\Agentic_qa\\user-stories\\pantheon-checkout.md",
+    "title": "PANTHEON-101 - IndieCommerce Checkout Process"
+  }
+}

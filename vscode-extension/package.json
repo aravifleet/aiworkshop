@@ -1,0 +1,105 @@
+{
+  "name": "adaptive-qa-story-runner",
+  "displayName": "Adaptive QA Story Runner",
+  "description": "Run markdown-driven adaptive QA workflows from VS Code.",
+  "version": "0.0.5",
+  "publisher": "fleetstudio",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Testing",
+    "Other"
+  ],
+  "activationEvents": [
+    "*",
+    "onCommand:adaptiveQa.quickStart",
+    "onCommand:adaptiveQa.addStory",
+    "onCommand:adaptiveQa.runActiveStory",
+    "onCommand:adaptiveQa.pickStoryAndRun",
+    "onCommand:adaptiveQa.generateStoryTemplate",
+    "onCommand:adaptiveQa.installBrowsers"
+  ],
+  "main": "./extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "adaptiveQa.quickStart",
+        "title": "Adaptive QA: Start"
+      },
+      {
+        "command": "adaptiveQa.addStory",
+        "title": "Adaptive QA: Add Story"
+      },
+      {
+        "command": "adaptiveQa.runActiveStory",
+        "title": "Adaptive QA: Run Active Story"
+      },
+      {
+        "command": "adaptiveQa.pickStoryAndRun",
+        "title": "Adaptive QA: Pick Story and Run"
+      },
+      {
+        "command": "adaptiveQa.generateStoryTemplate",
+        "title": "Adaptive QA: Create Story Template"
+      },
+      {
+        "command": "adaptiveQa.installBrowsers",
+        "title": "Adaptive QA: Install Playwright Browser"
+      }
+    ],
+    "menus": {
+      "editor/title": [
+        {
+          "command": "adaptiveQa.runActiveStory",
+          "when": "resourceExtname == .md",
+          "group": "navigation"
+        }
+      ],
+      "explorer/context": [
+        {
+          "command": "adaptiveQa.runActiveStory",
+          "when": "resourceExtname == .md",
+          "group": "navigation"
+        }
+      ]
+    },
+    "configuration": {
+      "title": "Adaptive QA Story Runner",
+      "properties": {
+        "adaptiveQa.playwrightCommand": {
+          "type": "string",
+          "default": "",
+          "description": "Optional override for the Playwright CLI command, for example `npx playwright`. Leave blank to use the extension's bundled Playwright runtime."
+        },
+        "adaptiveQa.defaultWorkflow": {
+          "type": "string",
+          "enum": [
+            "guided",
+            "discovery"
+          ],
+          "default": "guided",
+          "description": "Default workflow when running a markdown story."
+        },
+        "adaptiveQa.browserProject": {
+          "type": "string",
+          "default": "chromium",
+          "description": "Playwright project name to run."
+        }
+      }
+    }
+  },
+  "scripts": {
+    "package": "vsce package --allow-missing-repository",
+    "package:pre-release": "vsce package --pre-release --allow-missing-repository"
+  },
+  "dependencies": {
+    "@playwright/test": "^1.62.1",
+    "playwright": "^1.62.1"
+  },
+  "devDependencies": {
+    "@types/vscode": "^1.85.0",
+    "@vscode/vsce": "^3.6.2"
+  }
+}
